@@ -4,11 +4,7 @@
 
 # Session Data files
 .RData
-
-# User-specific files
-.Ruserdata
-
-# Example code in package build process
+e in package build process
 *-Ex.R
 
 
@@ -17,7 +13,7 @@
 
 # knitr and R markdown default cache directories
 *_cache/
-/cache/
+/cache/k;kkkkk'
 
 # Temporary files created by R markdown
 *.utf8.md
@@ -25,3 +21,4 @@
 
 # R Environment Variables
 .Renviron
+.Rproj.user
